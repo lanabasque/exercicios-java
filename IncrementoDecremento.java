@@ -10,3 +10,6 @@ public class IncrementoDecremento {
         System.out.println ("Alterar a variavel = " + contador);
  }
 }
+
+
+
